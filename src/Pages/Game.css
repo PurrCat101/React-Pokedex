@@ -1,0 +1,19 @@
+.game-title {
+  margin: 1rem;
+  font-size: 24px;
+  font-family: "Arial", sans-serif;
+  margin: "1rem";
+  fontsize: "24px";
+}
+
+.score-text {
+  margin-bottom: 0.5rem;
+  font-family: "Roboto", sans-serif;
+  marginbottom: "0.5rem";
+}
+
+.remaining-attempts {
+  margin-top: 0.5rem;
+  font-family: "Arial", sans-serif;
+  margintop: "0.5rem";
+}

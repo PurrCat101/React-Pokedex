@@ -1,0 +1,28 @@
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.input-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-gen {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (max-width: 992px) {
+  .button-gen {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+}
+
+Button {
+  margin: 0.5rem;
+}
