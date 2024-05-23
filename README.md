@@ -13,7 +13,7 @@ A comprehensive Pokedex web application built with Vite, React JS, Ant Design, a
 
 ## Installation
 
-Clone the repository: `git clone https://github.com/your-username/pokedex.git`
+Clone the repository: `git clone https://github.com/PurrCat101/pokedex.git`
 
 Install dependencies: `npm install`
 
